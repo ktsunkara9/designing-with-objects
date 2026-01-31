@@ -10,7 +10,7 @@ This project is intended to practice object creation, design patterns, and objec
 
 ```bash
 mvn compile
-mvn exec:java -Dexec.mainClass="inc.skt.Main"
+mvn exec:java -Dexec.mainClass="inc.skt.designingwithobjects.Main"
 ```
 
 ## Test
